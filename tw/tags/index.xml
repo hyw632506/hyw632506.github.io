@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Wayne&#39;s Blog</title>
+    <link>https://hugo-toha.github.io/tw/tags/</link>
+    <description>Recent content in Tags on Wayne&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jan 2022 17:13:00 +0800</lastBuildDate><atom:link href="https://hugo-toha.github.io/tw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic</title>
+      <link>https://hugo-toha.github.io/tw/tags/basic/</link>
+      <pubDate>Sat, 22 Jan 2022 17:13:00 +0800</pubDate>
+      
+      <guid>https://hugo-toha.github.io/tw/tags/basic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Intelligence</title>
+      <link>https://hugo-toha.github.io/tw/tags/business-intelligence/</link>
+      <pubDate>Sat, 22 Jan 2022 16:17:00 +0800</pubDate>
+      
+      <guid>https://hugo-toha.github.io/tw/tags/business-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://hugo-toha.github.io/tw/tags/data-visualization/</link>
+      <pubDate>Sat, 22 Jan 2022 16:17:00 +0800</pubDate>
+      
+      <guid>https://hugo-toha.github.io/tw/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

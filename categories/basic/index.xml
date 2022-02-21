@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic on Wayne&#39;s Blog</title>
+    <link>https://hugo-toha.github.io/categories/basic/</link>
+    <description>Recent content in Basic on Wayne&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jan 2022 17:13:00 +0800</lastBuildDate><atom:link href="https://hugo-toha.github.io/categories/basic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://hugo-toha.github.io/posts/introduction/</link>
+      <pubDate>Sat, 22 Jan 2022 17:13:00 +0800</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/introduction/</guid>
+      <description>I am a passionate software engineer with 2 years of working experience.</description>
+    </item>
+    
+    <item>
+      <title>Tableau1</title>
+      <link>https://hugo-toha.github.io/posts/category/sub-category/tableau/tableau1/</link>
+      <pubDate>Sat, 22 Jan 2022 16:17:00 +0800</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/category/sub-category/tableau/tableau1/</guid>
+      <description>【MBA 討生活】 認識 Business Intelligence 的職業生涯發展 Jon 的獨門面試絕招無私分享 Business Analyst &amp;amp; Data Scientist  Business Intelligence 兩個工作職涯: 可先學習後根據個性、工作非黑即白  1.Business Intelligence Analyst  說故事、溝通。 做出 dashboard 說故事，告訴 team 的人說應該怎麼做會好一點，改變過去發生的事。 針對公司表現營運方面，改善。   2.Data Scientist  安靜、喜歡數字、Geek。 對 Programming 有興趣、數學模型、統計學、AI、Machine learning 做 Project 利用過去資料，來做出一些預測未來的東西。      Types of Business Analytics  Data(資料):蒐集方式許多種，銷售 data、客戶資料 data。  EX:每間 7-11 賣了多少 Durex，年賣 50 萬，七八月就 20 萬，Descriptive Analytics(描述性分析)。為什麼?   Insight(洞察力):  EX:Sales team 告訴我們原因，暑假學生出去玩、七夕，做推論(Diagnostic Analytics(診斷性分析))。   Forecast(預測):  EX:老闆說今年 50 萬，sales team 說明年 70 萬，根據經銷商資訊。工程師根據 data 算出 60 萬比較正確，最後決定 65-68 萬(Predictive analytics(預測性分析))。   Prescrptive Analytics(指示性分析):怎麼去改變未來 - EX:突然改變要求 70 萬，怎樣提升銷量，辦活動寒假或許也行等等。   Interview Skills  公司有 data 嗎?</description>
+    </item>
+    
+    <item>
+      <title>Tableau2</title>
+      <link>https://hugo-toha.github.io/posts/category/sub-category/tableau/tableau2/</link>
+      <pubDate>Sat, 22 Jan 2022 16:17:00 +0800</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/category/sub-category/tableau/tableau2/</guid>
+      <description>【有靈魂的 Tableau 教室】Tableau 教學 手把手非要把你教到會為止 入門基礎操作 ep1  免費版本 Tableau(不會上傳雲端) Download Tableau  Setting language  1.點選 Tableau logo，選單File的 Workbook Locale，更改成Automate(UserLocale)。 2.再點選Help選單中的Choose Language的English(United Stated)。 3.重新啟動 Tableau。  Import Data(excel xlsx)  1.點選，回到Data Source頁面。 2.在左邊Connect欄位中，點選Microsoft Excel匯入xlsx檔案。 3 將order 拖曳至 4.，為資料類型，點選可改變資料類型。  Import Data(excel csv)  1.左邊Connect欄位中的Add，點選Text file匯入csv檔案。 舊版有 join.(本例子 left join)  資料裁切  1.點選欄位下拉式選單，Customer Split。 (跟 split 有不同) 2.選擇用什麼字符去裁減-，且前面幾個columns。  3.完成裁切。   實作 1:製作不同市場、不同品類的銷售表現 顏色  點選左邊選單Maeket，拖曳至中間Marks欄位中的Color中。  上表 insight(與 BOSS 互動)  非洲生意有很大的空間去突破。 拉丁美洲其他兩個領域相對Consumer沒那麼好。    實作 2:分析過去銷售趨勢  點選下方New Worksheet。 tips:Column 為直向，時間多為 Column。 - Order Date 2015/2/17 - Sales 126.</description>
+    </item>
+    
+  </channel>
+</rss>
