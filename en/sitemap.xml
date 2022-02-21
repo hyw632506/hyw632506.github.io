@@ -193,34 +193,10 @@
                 href="https://hugo-toha.github.io/"
                 />
   </url><url>
-    <loc>https://hugo-toha.github.io/tags/business-intelligence/</loc>
-    <lastmod>2022-01-22T16:17:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://hugo-toha.github.io/tw/tags/business-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hugo-toha.github.io/tags/business-intelligence/"
-                />
-  </url><url>
-    <loc>https://hugo-toha.github.io/tags/data-visualization/</loc>
-    <lastmod>2022-01-22T16:17:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://hugo-toha.github.io/tw/tags/data-visualization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hugo-toha.github.io/tags/data-visualization/"
-                />
+    <loc>https://hugo-toha.github.io/notes/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
   </url><url>
     <loc>https://hugo-toha.github.io/posts/category/sub-category/</loc>
-    <lastmod>2022-01-22T16:17:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tw"
@@ -233,7 +209,6 @@
                 />
   </url><url>
     <loc>https://hugo-toha.github.io/posts/category/</loc>
-    <lastmod>2022-01-22T16:17:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tw"
@@ -245,36 +220,19 @@
                 href="https://hugo-toha.github.io/posts/category/"
                 />
   </url><url>
-    <loc>https://hugo-toha.github.io/posts/category/sub-category/tableau/tableau1/</loc>
-    <lastmod>2022-01-22T16:17:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://hugo-toha.github.io/tw/posts/category/sub-category/tableau/tableau1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hugo-toha.github.io/posts/category/sub-category/tableau/tableau1/"
-                />
-  </url><url>
-    <loc>https://hugo-toha.github.io/posts/category/sub-category/tableau/tableau2/</loc>
-    <lastmod>2022-01-22T16:17:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://hugo-toha.github.io/tw/posts/category/sub-category/tableau/tableau2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hugo-toha.github.io/posts/category/sub-category/tableau/tableau2/"
-                />
-  </url><url>
-    <loc>https://hugo-toha.github.io/notes/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-  </url><url>
     <loc>https://hugo-toha.github.io/search/</loc>
     <priority>0.1</priority>
+  </url><url>
+    <loc>https://hugo-toha.github.io/posts/category/sub-category/tableau/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://hugo-toha.github.io/tw/posts/category/sub-category/tableau/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hugo-toha.github.io/posts/category/sub-category/tableau/"
+                />
   </url>
 </urlset>
