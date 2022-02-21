@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wayne&#39;s Blog</title>
-    <link>https://hugo-toha.github.io/tw/</link>
-    <description>Recent content on Wayne&#39;s Blog</description>
+    <title>Data Visualization on Wayne&#39;s Blog</title>
+    <link>https://hugo-toha.github.io/tw/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on Wayne&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jan 2022 17:13:00 +0800</lastBuildDate><atom:link href="https://hugo-toha.github.io/tw/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>個人簡介</title>
-      <link>https://hugo-toha.github.io/tw/posts/introduction/</link>
-      <pubDate>Sat, 22 Jan 2022 17:13:00 +0800</pubDate>
-      
-      <guid>https://hugo-toha.github.io/tw/posts/introduction/</guid>
-      <description>我是一位軟體工程師。</description>
-    </item>
-    
+    <lastBuildDate>Sat, 22 Jan 2022 16:17:00 +0800</lastBuildDate><atom:link href="https://hugo-toha.github.io/tw/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tableau1</title>
       <link>https://hugo-toha.github.io/tw/posts/category/sub-category/tableau/tableau1/</link>
